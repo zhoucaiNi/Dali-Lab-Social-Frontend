@@ -1,0 +1,54 @@
+
+
+
+// blue = 477ae7
+// gold = E7BA47
+// cyan = #00b6b4
+
+
+//  Login In Page 
+
+.login{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #00b6b4;
+  border-radius: 4px;
+}
+
+.login-button{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: #00b6b4;
+  border-radius: 4px;
+}
+
+// home page 
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.card{
+  background-color: #00b66a;
+  margin-bottom: 50px;
+}
+
+.home{
+  background-color: #00b6b4;
+}
+
+body{
+  background-color: #0049b6;
+}
+
+img{
+  border-radius: 25px;
+  width: 240px;
+  height: 240px;
+}
